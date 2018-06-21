@@ -1,0 +1,42 @@
+{
+  "name": "sbv",
+  "version": "0.0.1",
+  "description": "Read Youtube .SBV caption files and convert to JSON, text, or HTML",
+  "main": "sbv.js",
+  "bin": {
+    "sbv": "sbv.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomhodgins/sbv.git"
+  },
+  "keywords": [
+    "sbv",
+    "youtube",
+    "video",
+    "caption",
+    "subtitle",
+    "convert",
+    "converter",
+    "html",
+    "json",
+    "txt",
+    "text",
+    "file"
+  ],
+  "author": "Tommy Hodgins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomhodgins/sbv/issues"
+  },
+  "homepage": "https://github.com/tomhodgins/sbv#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
