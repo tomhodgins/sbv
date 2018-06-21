@@ -4,7 +4,7 @@
 
 ## About
 
-This plugin parses Youtube's `.sbv` subtitle file format and allows you to either
+This plugin parses Youtube's `.sbv` subtitle file format and allows you to convert to JSON, plain text, or HTML formatting and output either on the command line or as a file.
 
 ## Installation
 
