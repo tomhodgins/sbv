@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 
-// Read SBV caption files from YouTube
 const fs = require('fs')
 
 function read(file) {
