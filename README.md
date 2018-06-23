@@ -8,7 +8,7 @@ This plugin parses Youtube's `.sbv` subtitle file format and allows you to conve
 
 ## Installation
 
-This software is available as a Node module from npm, as well as with pre-built binaries for windows, mac, and linux available on Github in the [releases](https://github.com/tomhodgins/sbv/releases) tab.
+This software is available as a Node module from npm, as well as pre-built binaries for windows, mac, and linux available on Github in the [releases](https://github.com/tomhodgins/sbv/releases/latest) tab.
 
 To install sbv globally with npm, enter this into your shell:
 
